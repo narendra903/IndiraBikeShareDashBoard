@@ -1,0 +1,31 @@
+Station ID,Station Location,Year,COGS,Price per Minute
+ST001,Banjara Hills,2022,14,3.18
+ST001,Banjara Hills,2023,19,2.42
+ST001,Banjara Hills,2024,24,2.24
+ST002,Gachibowli,2022,23,3.66
+ST002,Gachibowli,2023,24,2.01
+ST002,Gachibowli,2024,26,3.9
+ST003,Jubilee Hills,2022,11,3.41
+ST003,Jubilee Hills,2023,26,3.88
+ST003,Jubilee Hills,2024,10,2.63
+ST004,Madhapur,2022,21,2.44
+ST004,Madhapur,2023,27,3.18
+ST004,Madhapur,2024,27,2.21
+ST005,Begumpet,2022,13,3.44
+ST005,Begumpet,2023,12,2.19
+ST005,Begumpet,2024,20,2.01
+ST006,Hitech City,2022,23,3.09
+ST006,Hitech City,2023,23,3.96
+ST006,Hitech City,2024,22,2.03
+ST007,Kondapur,2022,30,2.78
+ST007,Kondapur,2023,29,2.72
+ST007,Kondapur,2024,18,3.78
+ST008,Shamshabad,2022,21,3.0
+ST008,Shamshabad,2023,20,2.77
+ST008,Shamshabad,2024,11,3.33
+ST009,Kukatpally,2022,23,2.09
+ST009,Kukatpally,2023,23,2.74
+ST009,Kukatpally,2024,27,3.63
+ST010,Secunderabad,2022,18,2.84
+ST010,Secunderabad,2023,26,2.89
+ST010,Secunderabad,2024,27,3.06
