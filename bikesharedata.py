@@ -1,5 +1,3 @@
-# Rewriting the Python code to generate a downloadable Python script after the execution state reset.
-
 import pandas as pd
 import random
 import numpy as np
@@ -43,8 +41,8 @@ def generate_trip_data(start_date, end_date):
         year = current_date.year
         month = current_date.strftime('%B')
         day_of_week = current_date.strftime('%A')
-        holiday = random.choice(['Yes', 'No']) if day_of_week in ['Saturday', 'Sunday'] else 'No'
-        working_day = 'No' if holiday == 'Yes' else 'Yes'
+        holiday = 'Yes' if day_of_week in ['Saturday', 'Sunday'] else 'No'
+        working_day = 'No' if day_of_week in ['Saturday', 'Sunday'] else 'Yes'
 
         # Determine season and weather based on month
         season = next((s for s, months in seasons.items() if month in months), 'Unknown')
